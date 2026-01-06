@@ -1,61 +1,83 @@
-### Hi there 👋
-<a href="https://portfolio-beige-two-18.vercel.app/"> My portfolio </a>
-<!--
-**bhowmik1234/bhowmik1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<h1 align="center">Hi 👋, I'm Bhowmik Chawda</h1>
-<h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-[![](https://visitcount.itsvg.in/api?id=bhowmik1234&icon=5&color=11)](https://visitcount.itsvg.in)
-<div align="left">
-  <img src="https://profile-counter.glitch.me/bhowmik1234/count.svg?"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7aa2f7&text=Bhowmik%20Chawda&height=100&fontSize=60" alt="Bhowmik Chawda" />
+  
+  <br/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BB9AF7&center=true&vCenter=true&width=650&lines=Architecting+Scalable+Backends;Fine-Tuning+LLMs+for+Production;Engineering+Distributed+Systems;Exploring+AI+Agents+%26+Web3" alt="Typing SVG" />
+  </a>
 </div>
 
-###
+<div align="center">
+  <a href="https://portfolio-beige-two-18.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-7aa2f7?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1a1b26" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/bhowmik-chawda-30aa8625a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-bb9af7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:bhowmikcwda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-f7768e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email"/>
+  </a>
+</div>
 
-- 🌱 I’m currently learning **Blockchian, AI ML, web developement**
+<br/>
 
-- 👯 I’m looking to collaborate on **Blockchain and AI ML projects**
-
-- 💬 Ask me about **Technology**
-
-- 📫 How to reach me **bhowmikcwda@gmail.com**
-<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhowmik-chawda-30aa8625a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@bhowmikcwda) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23164570) 
-
-# 💻 Language and Tools:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bhowmik1234&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bhowmik1234&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhowmik1234&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bhowmik1234&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<!-- 
+<div align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bhowmik1234&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="bhowmik1234" />
+  </a>
+</div> 
+-->
 
 ---
 
+### 👾 _Terminal_
 
+```javascript
+const bhowmik = {
+    role: "Backend Architect & AI Engineer",
+    code: [ "Python", "Go", "TypeScript", "Rust" ],
+    architecture: [ "Microservices", "Event-Driven", "Serverless" ],
+    databases: {
+        relational: [ "PostgreSQL", "MySQL" ],
+        nosql: [ "MongoDB", "Redis", "Cassandra" ],
+        vector: [ "Qdrant", "ChromaDB" ]
+    },
+    currentFocus: "Optimizing RAG Pipelines & Blockchain Security",
+    funFact: "Won the International Lightning Hackathon with SambaNova AI"
+};
+```
+
+---
+
+### ⚔️ _The Arsenal_
+
+<div align="center">
+
+| **Core Stacks** | **Cloud & DevOps** | **AI & Data** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=python,ts,go,rust,cpp" /> | <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,linux" /> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,redis,graphql" /> |
+| <img src="https://skillicons.dev/icons?i=nestjs,fastapi,express,nodejs" /> | <img src="https://skillicons.dev/icons?i=git,github,actions,vercel" /> | <img src="https://skillicons.dev/icons?i=mongodb,firebase,prisma" /> |
+
+</div>
+
+
+### 📊 _System Metrics_
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhowmik1234&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhowmik1234&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhowmik1234&theme=tokyonight&hide_border=true&ring=bb9af7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer"/>
+  <br/>
+  <img src="https://visitcount.itsvg.in/api?id=bhowmik1234&icon=5&color=11" alt="Visitor Count" />
+</div>
